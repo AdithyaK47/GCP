@@ -1,4 +1,4 @@
-#Kubernetes
+# Kubernetes
 Kubernetes is an open source container orchestration platform that automates many of the manual processes involved in deploying, 
 managing, and scaling containerized applications. 
 In other words, one can cluster together groups of hosts running Linux® containers, and Kubernetes helps to easily and efficiently manage those clusters. 
@@ -56,13 +56,13 @@ Gcr.io container registry contains container images for Kubernetes software runn
 https://cloud.google.com/kubernetes-engine/docs/concepts/cluster-architecture#nodes 
 
 
-#Instance Groups
+# Instance Groups
 
 Instance groups is a collection of VM instances that one can manage as a single entity. 
 Two kinds of VM instances are Managed Instance Groups (MIG) and Unmanaged Instance Groups. (UIG)
 The first one is automated whereas the latter is where one manages the instance. 
 
-#Auto-scaler, Auto-upgrade and Auto-repair
+# Auto-scaler, Auto-upgrade and Auto-repair
 
 Auto scaling automatically add or remove VM instances from the group based on increase or decrease in the load.  
 There are several autoscaling policies available; for example, the one based on CPU utilization, it watches avg. CPU utilization of VM instances. 
@@ -87,7 +87,7 @@ Auto-upgrading nodes: Node auto-upgrades helps the nodes in the cluster to be up
 Auto-repairing nodes: Node auto-repair feature helps to keep the nodes in the cluster in a healthy, running state. When enabled, GKE makes periodic checks on the health state of each node in the cluster. If a node fails consecutive health checks over an extended time period, GKE initiates a repair process for that node. 
 If GKE detects that a node requires repair, the node is drained and re-created. GKE waits one hour for the drain to complete. If the drain doesn't complete, the node is shut down and a new node is created. If multiple nodes require repair, GKE might repair nodes in parallel. 
 
-#Load Balancing 
+# Load Balancing 
 
 GCP, the Google Cloud Platform provides Load Balancing to distribute incoming traffic across multiple VMs. Benefits of Load balancing are scaling the app, 
 supporting heavy traffic, health checks, route traffic efficiently. 
@@ -104,12 +104,12 @@ Proxy based load balancer inherits DDOS protection from GFE. (Google Front-end)
 
 https://cloud.google.com/load-balancing/docs/choosing-load-balancer 
  
-#Instance Templates
+# Instance Templates
 
 Instance templates are a resource to create a VM instance & MIG. It is a global resource, not bound to a region/zone.  
 We can use it anytime when we want to create a VM instance quickly on the basis of pre-existing configuration. We cannot update an existing Instance template.   
 
-#Health Checks
+# Health Checks
 
 Google Cloud provides health checking mechanisms that determine whether backend instances respond properly to traffic. 
 
