@@ -12,7 +12,7 @@ Uses
 
 3) Control and automate application deployments and updates. 
 
-4) Mount and add storage to run stateful apps. 
+4) Mount and add storage to run stateful apps.  
 
 5) Scale containerized applications and their resources on the fly. 
 
