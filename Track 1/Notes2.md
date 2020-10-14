@@ -1,4 +1,4 @@
-# Service models and Deployment models
+# Service models 
 
 3 Service Models Of Cloud Computing
 
@@ -10,6 +10,8 @@ Platform as a Service (PAAS) allows outsourcing of hardware infrastructure as we
 Software as a service (SaaS)  is a cloud computing offering that provides users with access to a vendor’s cloud-based software. 
 Users do not install applications on their local devices. Instead, the applications reside on a remote cloud network accessed through the web or an API. 
 Through the application, users can store and analyze data and collaborate on projects.
+
+# Deployment models
 
 Cloud deployment refers to the enablement of SaaS (software as a service), 
 PaaS (platform as a service) or IaaS (infrastructure as a service) solutions that may be accessed on demand by end users or consumers.
