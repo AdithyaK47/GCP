@@ -60,7 +60,7 @@ One can add multiple network interfaces to a VM instance, where each interface r
 VPC firewall rules let one to allow or deny connections to or from the virtual machine (VM) instances based on a configuration that one specify.                 
 Enabled VPC firewall rules are always enforced, protecting the instances regardless of their configuration and operating system, even if they have not started up.    
 
-https://cloud.google.com/vpc/docs/firewalls
+https://cloud.google.com/vpc/docs/firewalls                                                                                                       
 https://cloud.google.com/solutions/web-serving-overview
 
 VPC sharing and peering                                                                                                                                   
