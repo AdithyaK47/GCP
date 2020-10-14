@@ -38,7 +38,7 @@ Few services of GCP
    Compute Engine                                                                                                                                                  
    Google Cloud's unmanaged compute service is Compute Engine. 
    One can think of Compute Engine as providing an infrastructure as a service (IaaS), because the system provides a robust computing infrastructure, 
-   but you must choose and configure the platform components that one want to use.                                                       
+   but one must choose and configure the platform components that they want to use.                                                       
    
    Combining computing and hosting options is done in an efficient way to meet the needs.                                                                                   
    
