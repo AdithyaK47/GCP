@@ -18,7 +18,5 @@ Deployments use a Pod template, which contains a specification for its Pods
 One can update a Deployment by making changes to the Deployment's Pod template specification
 
 Deployment Manager
-
 One can use Google Cloud Deployment Manager to create a set of Google Cloud resources and manage them as a unit, called a deployment.
-
-Managing resources, Automation
+Managing resources, Automation, etc. are done using this.
