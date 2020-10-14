@@ -28,16 +28,17 @@ Few services of GCP
    App Engine                                                                                                                                                       
    It is Google Cloud's platform as a service (PaaS). With App Engine, Google handles most of the management of the resources for you.                     
    For example, if your application requires more computing resources because traffic to your website increases,                                              
-   Google automatically scales the system to provide those resources. If the system software needs a security update, that's handled for you, too           
+   Google automatically scales the system to provide those resources. If the system software needs a security update, that's handled too.           
    
-   Container computing
+   Container computing                                                                                                                                          
    With container-based computing, one can focus on application code, instead of on deployments and integration into hosting environments.                              
    Google Kubernetes Engine (GKE), Google Cloud's containers as a service (CaaS) offering, is built on the open source Kubernetes system,                           
    which gives the flexibility of on-premises or hybrid clouds, in addition to Google Cloud's public cloud infrastructure.                                       
    
    Compute Engine                                                                                                                                                  
-   Google Cloud's unmanaged compute service is Compute Engine. One can think of Compute Engine as providing an infrastructure as a service (IaaS),                  
-   because the system provides a robust computing infrastructure, but you must choose and configure the platform components that one want to use.                 
+   Google Cloud's unmanaged compute service is Compute Engine. 
+   One can think of Compute Engine as providing an infrastructure as a service (IaaS), because the system provides a robust computing infrastructure, 
+   but you must choose and configure the platform components that one want to use.                                                       
    
    Combining computing and hosting options is done in an efficient way to meet the needs.                                                                                   
    
