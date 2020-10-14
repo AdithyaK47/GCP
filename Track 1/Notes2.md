@@ -1,7 +1,4 @@
-Cloud deployment refers to the enablement of SaaS (software as a service), 
-PaaS (platform as a service) or IaaS (infrastructure as a service) solutions that may be accessed on demand by end users or consumers.
-
-Cloud deployment includes all of the required installation and configuration steps that must be implemented before user provisioning can occur.
+# Service models and Deployment models
 
 3 Service Models Of Cloud Computing
 
@@ -14,7 +11,10 @@ Software as a service (SaaS)  is a cloud computing offering that provides users 
 Users do not install applications on their local devices. Instead, the applications reside on a remote cloud network accessed through the web or an API. 
 Through the application, users can store and analyze data and collaborate on projects.
 
+Cloud deployment refers to the enablement of SaaS (software as a service), 
+PaaS (platform as a service) or IaaS (infrastructure as a service) solutions that may be accessed on demand by end users or consumers.
 
+Cloud deployment includes all of the required installation and configuration steps that must be implemented before user provisioning can occur.
 
 A cloud deployment model refers to the type of cloud computing architecture a cloud solution will be implemented on.
 There are four main types: public, private, hybrid and community clouds.
